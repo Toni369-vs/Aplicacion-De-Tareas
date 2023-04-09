@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/125910370/230785563-d11cb518-d000-4f5f-9907-ad42d9daff99.png)
+
+
 Aplicación de tareas con React
 Esta es una aplicación de tareas básica desarrollada con React, que utiliza varios conceptos importantes como hooks, estados, métodos como trim, filter, map, spread operator, e.target.value y .preventDefault. La aplicación te permite agregar, marcar y eliminar tareas.
 
@@ -21,5 +24,4 @@ La aplicación también utiliza el método trim para eliminar espacios en blanco
 
 
 
-![image](https://user-images.githubusercontent.com/125910370/230785563-d11cb518-d000-4f5f-9907-ad42d9daff99.png)
 
